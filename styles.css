@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* you figureout the flexbox code */
+
+
+
+  .instagramContainer{
+    /* you figure out the flexbox code */
+  }
+
+
+
+  .instagram-header{
+    /* you figure out the flexbox code */
+    display: flex;
+    align-items: flex-end;
+  }
+
+
+
+  .insta-Front{
+    display: flex;
+    justify-content: space-around;
+
+  }
+
+
+  .carousel-images{
+
+  }
+
+
+
+  .lower_header{
+
+  }
+
+
+
+  .center-stage{
+
+  }
+
+
+
+  .footer{
+
+  }
+
+
+
+  .footer-icons{
+    display: flex;
+    justify-content: space-around;
+align-items: flex-end;
+  }
+
+  img{
+   border-radius:50%
+  }
+
+  .blackhistory{
+    border-radius: 0%
+  }
